@@ -11,7 +11,7 @@
 #Testing Output folder
 .output/
 #Extension App-file
-*.app
+github_app_L14C2-L14C2
 #Rapid Application Development File
 rad.json
 #Translation Base-file
